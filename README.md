@@ -27,7 +27,7 @@ Run ```composer install```
 Run ```php -S 127.0.0.1:8000 -t public``` to run server on localhost
 
 ## Seed database
-Run ``php dbseed.php```
+Run ```php dbseed.php```
 
 ### Create .env file with the following database configuration
 ```
